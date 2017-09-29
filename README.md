@@ -1,0 +1,2 @@
+# exercises-repo
+homework exercises 
