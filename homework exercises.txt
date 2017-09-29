@@ -1,0 +1,22 @@
+1.	Create branch.
+-	Use "git branch branchName" command.
+2.	Switch to that branch.
+-	Use "git checkout branchName" command.
+* Note that the previous 2 steps can be done also with the following command: 
+"git checkout -b branchName"
+3.	Make some changes.
+4.	Commit your changes.
+5.	Switch to the main branch.
+-	Refer to step 2.
+6.	Make some changes to the main branch.
+7.	Merge with previous branch.
+-	Use “git merge branchName”
+8.	Resolve the new conflicts (if any).
+-	Modify the file to resolve the conflicts
+-	Use “git add filename” and “git commit”
+9.	Attempt to merge again (only if there were conflicts in step 8).
+-	Use “git merge branchName”
+10.	Delete the newly created branch.
+-	Use “git branch -d branchName” command.
+11.	Update the remote repository.
+-	Use “git push --all --prune” command.

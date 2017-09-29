@@ -1,3 +1,3 @@
 # exercises-repo
 homework exercises 
-this will make conflict
+Make Conflicts and Resolve Them
