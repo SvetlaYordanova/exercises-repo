@@ -1,3 +1,5 @@
+https://github.com/SvetlaYordanova/exercises-repo.git
+
 1.	Create branch.
 -	Use "git branch branchName" command.
 2.	Switch to that branch.
